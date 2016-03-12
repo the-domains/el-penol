@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[El Peñol]]></title>
         <description><![CDATA[El Peñol]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/el-penol/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 19:09:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Mar 2016 20:20:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/el-penol/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>El Peñol. The lesser known of the two municipalities that govern the area around the lake, yet El Peñol has three times more inhabitants than Guatape. Probably because the town of El Peñol does not have any lake access whereas Guatape has the lake as a border on it's Western side. The "malecon" (promenade) runs along the lake front for more than a kilometre, is a popular place to take a walk and enjoy the lake.</p>]]></description>
-            <link>undefinedel-penol-the-lesser-known-of-the-two-municipalities-that-go/index.html</link>
+            <link>https://thegrid.ai/el-penol/el-penol-the-lesser-known-of-the-two-municipalities-that-go/index.html</link>
             <guid isPermaLink="false">0c2932a6-0c53-4ba1-af5f-78792a237ea7</guid>
-            <pubDate>Sat, 12 Mar 2016 19:08:36 GMT</pubDate>
+            <pubDate>Sat, 12 Mar 2016 20:19:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
